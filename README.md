@@ -3,7 +3,8 @@
 <h2 align="center">Hiya 👋, I'm Jonathan Gartland</h2>
 <h5 align="center">A Test Automation Engineer from Portland, Maine</h5>
 -->
-<img src="https://github.com/jonathan-gartland/jonathan-gartland/blob/main/images/ghub_profile_background.png" alt="Coder GIF" width="1000">
+<img src="https://github.com/jonathan-gartland/jonathan-gartland/blob/main/images/ghub_profile_background.png" alt="Coder GIF" width="1000">  
+  
 ---  
 **Languages and Tools:**
 
