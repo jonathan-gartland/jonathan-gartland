@@ -1,7 +1,10 @@
 ### Hi there 👋, I'm Jonathan Gartland
-
+<!--
+<h2 align="center">Hiya 👋, I'm Jonathan Gartland</h2>
+<h5 align="center">A Test Automation Engineer from Portland, Maine</h5>
+-->
 <img src="https://github.com/jonathan-gartland/jonathan-gartland/blob/main/images/ghub_profile_background.png" alt="Coder GIF" width="1000">
----
+---  
 **Languages and Tools:**
 
 ![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906.svg?&style=for-the-badge&logo=WebdriverIO&logoColor=white)
