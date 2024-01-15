@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Jonathan Gartland
 
+<img src="https://github.com/jonathan-gartland/jonathan-gartland/blob/main/images/ghub_profile_background.png" alt="Coder GIF" width="1000">
 ---
 **Languages and Tools:**
 
