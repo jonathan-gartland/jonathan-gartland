@@ -38,6 +38,8 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-gartland-01b7ba16)  
+
 <!--
 **jonathan-gartland/jonathan-gartland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
