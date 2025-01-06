@@ -39,8 +39,7 @@
 
 ---
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-gartland-01b7ba16)  
-https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-
+<a href="https://www.buymeacoffee.com/jonathan.gartland" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <!--
 **jonathan-gartland/jonathan-gartland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
