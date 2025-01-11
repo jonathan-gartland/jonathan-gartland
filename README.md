@@ -37,7 +37,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Stripe](https://img.shields.io/badge/stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
 ![Dart](https://img.shields.io/badge/dart-626CD9?style=for-the-badge&logo=dart&logoColor=white)  
 
 ---
